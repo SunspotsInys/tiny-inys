@@ -1,0 +1,22 @@
+{
+    "name": "tiny-inys",
+    "displayName": "tiny inys",
+    "description": "hack tiny light(luqimin)",
+    "version": "0.0.1",
+    "repository": "",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ilight",
+                "uiTheme": "vs",
+                "path": "./themes/ilight-color-theme.json"
+            }
+        ]
+    }
+}
