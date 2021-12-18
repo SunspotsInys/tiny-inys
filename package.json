@@ -3,7 +3,7 @@
     "displayName": "tiny inys",
     "description": "hack tiny light(luqimin)",
     "version": "0.0.1",
-    "repository": "",
+    "repository": "https://github.com/SunspotsInys/tiny-inys",
     "engines": {
         "vscode": "^1.63.0"
     },
