@@ -66,7 +66,7 @@
         "terminal.ansiRed": "#e6848a",
         "terminal.ansiWhite": "#606060",
         "terminal.ansiYellow": "#a8cb8f",
-        "terminal.selectionBackground": "#eee8d4"
+        "terminal.selectionBackground": "#bcd68d"
 	},
 	"tokenColors": [
 		{
